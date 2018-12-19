@@ -19,6 +19,7 @@
 $resourceURI = "https://graph.microsoft.com"
 $authority = "https://login.microsoftonline.com/common"
 #Enter your own clientID and redirect URI.Take a look at Ståle Hansen blogpost to see how to create your own clientid and redirect URI.
+#https://msunified.net/2018/12/12/post-at-microsoftteams-channel-chat-message-from-powershell-using-graph-api/
 #
 $clientId = "3587e50e-98f4-4bbe-86ff-f94c2056a7e8"
 $redirectUri = "https://login.microsoftonline.com/M365x792147.onmicrosoft.com/oauth2"
